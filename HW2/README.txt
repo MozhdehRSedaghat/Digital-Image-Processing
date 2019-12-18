@@ -1,4 +1,4 @@
-# EE569 Homework Assignment #1
+# EE569 Homework Assignment #2
 # Date:        2019/2/7
 # Name:        Mozhdeh Rouhsedaghat
 # email:       rouhseda@usc.edu
