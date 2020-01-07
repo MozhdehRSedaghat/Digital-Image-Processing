@@ -1,7 +1,7 @@
-# EE569 Homework Assignment #1
-# Date:        2019/1/21
-# Name:        Mozhdeh Rouhsedaghat
-# email:       rouhseda@usc.edu
+## EE569 Homework Assignment #1
+#### `Date:        2019/1/21`
+#### Name:        Mozhdeh Rouhsedaghat
+#### email:       rouhseda@usc.edu
 
 OS: LINUX
 Compiler: GNU GCC COMPILER
